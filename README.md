@@ -24,8 +24,9 @@ Forum modülünü kurmuş olduğunuz portal kısmına eklemek için yapılması 
 
 ![php](https://user-images.githubusercontent.com/46402809/50738637-4dafdf80-11e7-11e9-9324-ca5c9de624aa.PNG)
 
+# MODEL
 
-### 5-> Daha sonra "portal.kouosl/forum/forum" adresinden modüle erişildiğinde ise kullancıya sunulan (frontend ile) ekleme ekranı şöyledir;
+### 1-> Daha sonra "portal.kouosl/forum/forum" adresinden modüle erişildiğinde ise kullancıya sunulan (frontend ile) ekleme ekranı şöyledir;
 
 ![forumforum](https://user-images.githubusercontent.com/46402809/50738666-c7e06400-11e7-11e9-84c8-dd2121796349.PNG)
 
