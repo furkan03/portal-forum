@@ -33,3 +33,22 @@ Forum modülünü kurmuş olduğunuz portal kısmına eklemek için yapılması 
 ### ** Kayıt ekleme yapılırsa oluşan görüntü ise şöyle olur;
 
 ![kayitekle](https://user-images.githubusercontent.com/46402809/50738677-fd854d00-11e7-11e9-833c-e55e3422b910.PNG)
+
+
+### 3-> Model Generator ve CRUD Generator işlemleri yapıldıktan sonra elde edilen php dosyalarının (create,read,update,delete fonksiyonlarının içerisinde olduğu) içeriği ise şöyledir;
+
+### **Create.php dosya içeriği;
+
+![create](https://user-images.githubusercontent.com/46402809/50741244-6c27d200-120b-11e9-836e-a32d125918aa.PNG)
+
+### **Index.php dosya içeriği;
+
+![index](https://user-images.githubusercontent.com/46402809/50741254-8b266400-120b-11e9-8252-2b6a05b5ba4f.PNG)
+
+### **Update.php dosya içeriği;
+
+![update](https://user-images.githubusercontent.com/46402809/50741257-a2655180-120b-11e9-9297-6567d261600f.PNG)
+
+
+### Not:
+Yukarıda belirtilen model kısımlarının haricinde birçok kod parçası ve değişiklik mevcuttur. Bunlara daha detaylı ulaşım sağlamak için portal klasörünün içerisinde bulunan gerekli dosyaları açarak gerekli incelemeler yapılabilir.
